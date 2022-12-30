@@ -1,0 +1,47 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    color:white;
+    list-style: none;
+    margin: 2rem;
+    
+      
+}
+ul{
+    display: flex;
+    justify-content: end;
+    padding-right: 10rem;
+    align-items: center;
+    
+}
+
+.bg-navbar{
+    backdrop-filter: blur(40px);
+
+}
+
+.logito{
+    display: flex;
+    width: 8rem;
+    height: 4rem;
+    justify-content: space-around;
+    align-self: center;
+}
+.linea{
+    background-color: white;
+    width: 30rem;
+    height: 1px;
+    align-self: center;
+    display: flex;
+  
+}
+.encabezado{
+    display:flex;
+    justify-content: space-around;
+    align-self: center;
+
+}
+.menu{
+    display: flex;
+}
